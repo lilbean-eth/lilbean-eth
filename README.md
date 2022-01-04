@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### my name is Lil' Bean, the Engineer (Ivan is my government name)
+### I am currently a UCSD Machine Learning student who is seeking Data Engineering positions after graduation
 <!--
 **lilbean-eth/lilbean-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
